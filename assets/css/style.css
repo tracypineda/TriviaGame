@@ -2,13 +2,17 @@ body {
 
     background-image: url("../images/ironman_swimstart_background.jpg");
 
+    /* opacity: .60; */
+
     background-repeat: no-repeat;
 
     background-attachment: fixed;
 
     /* background-size: cover; */
 
-    color: #F30F0F;
+    color:whitesmoke;
+
+
 
 
 }
@@ -46,8 +50,15 @@ body {
 .timer-p {
 
   margin-top: 40px;
+  box-sizing: border-box;
+  background-color: whitesmoke;
 
 }
+
+/* .text-center {
+  box-sizing: border-box;
+  background-color: whitesmoke;
+} */
 
 
 
@@ -154,6 +165,13 @@ body {
 .summary-correct {
 
   margin-top: 40px;
+/* 
+  color: whitesmoke;
+
+  box-sizing: border-box;
+
+  background-color: black; */
+
 
 }
 
